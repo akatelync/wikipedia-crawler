@@ -1,6 +1,7 @@
 # Wikipedia Crawler
 
 Directory:
+
 `LT6-Lab-APIs.ipynb`
 - notebook demonstrating results of scraping a single Wikipedia page
 - analyzes degrees of separation and distribution among multiple Wikipedia pages
