@@ -10,3 +10,6 @@ Directory:
 - implementation of parallel processing of for loop for 1000 pages
 - saves results of scraping `(starting page, degrees)` to a csv
 - *CAUTION: works on MacOS M1, untested on PC*
+
+`results_YYYYMMDD.csv`
+- sample file for output of 1000-page crawler
