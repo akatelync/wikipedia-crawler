@@ -55,16 +55,16 @@ def find_philosophy(
 					):
 						next_url = href
 						found_valid_link = True
-						degrees +=1
+						degrees += 1
 						break
 
 				if not found_valid_link:
-					degrees = -1
+					degrees = -2
 					print("Invalid link!")
 					break
 
 			except NoSuchElementException:
-				degrees = -1
+				degrees = -3
 				break
 
 			time.sleep(0.5)
